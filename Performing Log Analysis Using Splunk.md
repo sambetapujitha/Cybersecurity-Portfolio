@@ -1,5 +1,3 @@
-Here is the Markdown version of the provided Microsoft Word document:
-
 # **Performing Log Analysis Using Splunk**
 
 ## **Introduction**
